@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xuonggosonhai.qtoolss.site/sitemap.xml
